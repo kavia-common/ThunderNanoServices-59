@@ -107656,3 +107656,84 @@ Services-59/IOConnector/Handler.cpp
 2025-09-25 11:48:44,924 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
 2025-09-25 11:48:45,029 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
 2025-09-25 11:48:45,091 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/cmake/FindLibVirtualKeyboard.cmake
+2025-09-25 11:48:45,179 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:45,263 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:45,367 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/SystemdConnector/Module.h
+2025-09-25 11:48:45,472 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:45,546 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:45,630 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/Power/Power.h
+2025-09-25 11:48:45,748 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:45,839 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:45,909 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/WifiControl/Network.h
+2025-09-25 11:48:46,025 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:46,111 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:46,227 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/VolumeControl/Module.cpp
+2025-09-25 11:48:46,347 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:46,428 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:46,538 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/RemoteControl/RemoteAdministrator.h
+2025-09-25 11:48:46,634 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:46,721 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:46,790 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/cmake/FindParodusService.cmake
+2025-09-25 11:48:46,877 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:46,964 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:47,051 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/WifiControl/WifiControlJsonRpc.cpp
+2025-09-25 11:48:47,161 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:47,266 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:47,343 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/FrontPanel/Module.cpp
+2025-09-25 11:48:47,434 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:47,520 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:47,633 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/examples/OutOfProcessPlugin/Module.cpp
+2025-09-25 11:48:47,718 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:47,797 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:47,882 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/PlayerInfo/Module.cpp
+2025-09-25 11:48:47,985 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:48,092 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:48,172 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/examples/FileTransferClient/CMakeLists.txt
+2025-09-25 11:48:48,261 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:48,348 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:48,453 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/Power/PowerImplementation/Stub/PowerImplementation.cpp
+2025-09-25 11:48:48,561 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:48,640 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:48,744 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/examples/TestController/CMakeLists.txt
+2025-09-25 11:48:48,852 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:48,936 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:49,031 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/RemoteControl/GreenPeak.cpp
+2025-09-25 11:48:49,131 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:49,211 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:49,284 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/examples/RemoteHostExample/RemoteHostExample.h
+2025-09-25 11:48:49,385 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:49,483 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:49,569 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/Cobalt/Cobalt.h
+2025-09-25 11:48:49,656 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:49,761 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:49,844 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/DisplayInfo/CMakeLists.txt
+2025-09-25 11:48:49,929 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:50,038 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:50,120 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/cmake/FindBcmNxServer.cmake
+2025-09-25 11:48:50,235 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:50,308 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:50,419 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/examples/RemoteHostExample/Module.h
+2025-09-25 11:48:50,498 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:50,575 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:50,652 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/WebServer/WebServer.h
+2025-09-25 11:48:50,778 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:50,866 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:50,939 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/cmake/FindWaylandClient.cmake
+2025-09-25 11:48:51,069 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:51,178 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:51,270 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/Compositor/lib/Wayland/Module.h
+2025-09-25 11:48:51,341 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:51,424 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:51,526 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/FileTransfer/FileTransfer.h
+2025-09-25 11:48:51,662 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ThunderNanoServices-59.git:kavia-R2
+2025-09-25 11:48:51,760 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f098460d650>
+2025-09-25 11:48:51,839 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/59/b50014z/ThunderNanoServices-59/cmake/FindOpenCDMi.cmake
+2025-09-25 11:48:51,928 - Knowledge - INFO - load persisted knowledge: end
+2025-09-25 11:48:52,001 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-25 11:48:52,091 - Knowledge - INFO - load persisted docinfo: end
+2025-09-25 11:48:52,550 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-25 11:48:52,634 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-25 11:48:52,740 - Knowledge - INFO - Knowledge creation complete
+2025-09-25 11:48:52,833 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-25 11:48:53,651 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-25 11:48:53,923 - Knowledge - INFO - Knowledge saved to Redis successfully
